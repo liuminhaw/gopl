@@ -8,3 +8,7 @@ Go into detail about the basic structural elements of a Go program: [Codes](ch2/
 
 ## Chapter 3 - Basic Data Types
 Numbers, strings, and booleans: [Codes](ch3/README.md)
+
+## Chapter 4 - Composite Types
+Created by combining the basic types in various ways [Codes](ch4/README.md)
+
