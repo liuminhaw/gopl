@@ -8,3 +8,5 @@
 - [dedup](dedup)
 - [charcount](charcount)
 - [graph](graph)
+- [treesort](treesort)
+- [embed](embed)
