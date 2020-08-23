@@ -10,3 +10,6 @@
 - [graph](graph)
 - [treesort](treesort)
 - [embed](embed)
+- [movie](movie)
+- [github](github)
+- [issues](issues)
