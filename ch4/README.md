@@ -12,4 +12,8 @@
 - [embed](embed)
 - [movie](movie)
 - [github](github)
-- [issues](issues)
+- issues
+    - [issues](issues)
+    - [issuesreport](issuesreport)
+    - [issueshtml](issueshtml)
+- [autoescape](autoescape)
