@@ -12,3 +12,6 @@ Numbers, strings, and booleans: [Codes](ch3/README.md)
 ## Chapter 4 - Composite Types
 Created by combining the basic types in various ways [Codes](ch4/README.md)
 
+## Chapter 5 - Functions
+A function lets us wrap up a sequence of statements as a unit that can be called from elsewhere in a program [Codes](ch5/README.md)
+
