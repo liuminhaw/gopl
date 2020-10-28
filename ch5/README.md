@@ -8,3 +8,5 @@
     - [outline](outline)
     - [outline2](outline2)
 - [wait](wait)
+- [squares](squares)
+- [toposort](toposort)
