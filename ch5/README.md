@@ -4,9 +4,11 @@
 - findlinks
     - [findlinks1](findlinks1)
     - [findlinks2](findlinks2)
+    - [findlinks3](findlinks3)
 - outline
     - [outline](outline)
     - [outline2](outline2)
 - [wait](wait)
 - [squares](squares)
 - [toposort](toposort)
+- [links](links)
