@@ -15,3 +15,5 @@ Created by combining the basic types in various ways [Codes](ch4/README.md)
 ## Chapter 5 - Functions
 A function lets us wrap up a sequence of statements as a unit that can be called from elsewhere in a program [Codes](ch5/README.md)
 
+## Chapter 6 - Methods
+An object is simply a value or variable that has methods, and a method is a function associated with a particular type [Codes](ch6/README.md)
