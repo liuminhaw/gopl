@@ -13,6 +13,10 @@ func main() {
 	fmt.Println("Function distance: ", geometry.Distance(p, q)) // function call
 	fmt.Println("Method distance: ", p.Distance(q))             // method call
 
+	fmt.Println("Origin p point: ", p.X, p.Y)
+	p.ScaleBy(2)
+	fmt.Println("p point after scale: ", p.X, p.Y)
+
 	perim := geometry.Path{
 		{X: 1, Y: 1},
 		{X: 5, Y: 1},
